@@ -30,5 +30,16 @@ http://hg.openjdk.java.net/jdk6/jdk6/jdk/file/8deef18bb749/src/share/classes/jav
  rachel: github | instagram aditya: github | instagram</description>
     </item>
     
+    <item>
+      <title>about</title>
+      <link>https://stavry.github.io/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stavry.github.io/music/</guid>
+      <description>welcome to stavry, home to rachel gregory and aditya srivastava musings!
+(srivastava + gregory = stavry)
+ rachel: github | instagram aditya: github | instagram</description>
+    </item>
+    
   </channel>
 </rss>
