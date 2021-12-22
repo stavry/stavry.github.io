@@ -2,29 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://stavry.github.io/travel/future/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/reading/magazines/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/reading/non-fiction/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/reading/novels/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/projects/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/reading/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/projects/technical/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/travel/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/travel/trips/</loc>
+    <lastmod>2021-12-22T08:33:36-06:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/architecture/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/art/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/astronomy/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/athletics/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/food/baking/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/athletics/biking/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/athletics/climbing/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/compsci/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/food/cooking/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/economics/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/film/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/media/film/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/food/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/writing/freeform/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/legal/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/linguistics/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/media/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/media/music/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/projects/nontechnical/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/philosophy/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/polisci/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/athletics/running/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/sociology/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/learning/statistics/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/writing/technical/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/writing/topical/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/media/tv/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stavry.github.io/writing/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://stavry.github.io/tags/algorithms/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stavry.github.io/categories/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stavry.github.io/posts/2020-06-06-changes-in-java-string/</loc>
+    <loc>https://stavry.github.io/writing/2020-06-06-changes-in-java-string/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stavry.github.io/categories/notes/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stavry.github.io/posts/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stavry.github.io/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stavry.github.io/tags/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stavry.github.io/about/</loc>
-  </url><url>
-    <loc>https://stavry.github.io/music/</loc>
   </url>
 </urlset>
