@@ -1,1 +1,0 @@
-check it out [here](http://stavry.github.io)!
