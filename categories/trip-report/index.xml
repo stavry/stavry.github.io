@@ -13,10 +13,7 @@
       <pubDate>Wed, 08 Dec 2021 09:00:00 +0000</pubDate>
       
       <guid>https://stavry.github.io/travel/trips/seattle-winter-2021/</guid>
-      <description>Before 1.7.0_06, String has 4 non static field:
- char[] value int[] offset int count int hash  Subing.substring create a String by sharing the original String&amp;rsquo;s internal char[] value and setting offset. This saves memory and makes String.substring run in a constant time($O(1)$). Meanwhile, this feature may cause memory leak1.
-http://hg.openjdk.java.net/jdk6/jdk6/jdk/file/8deef18bb749/src/share/classes/java/lang/String.java
-1public final class String 2 implements java.io.Serializable, Comparable&amp;lt;String&amp;gt;, CharSequence 3{ 4 /** The value is used for character storage.</description>
+      <description>08.12.21 It&amp;rsquo;s an overcast day in the Bay, rare for any time of year. We depart early morning from Palo Alto, headed for the San Jose airport. The flight is uneventful save for the descent - the plane shoots north past Seattle (did we get on the wrong flight? I don&amp;rsquo;t want to go to Canada), turning around eventually in a large arc before descending over the city into SeaTac. We had planned to take an Uber from the airport into the city, but as it turns out, the monorail (Link) is much cheaper ($2!</description>
     </item>
     
   </channel>
